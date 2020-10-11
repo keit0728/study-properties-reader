@@ -2,6 +2,8 @@
 **[Qittaに投稿したproperties-reader勉強用記事](https://qiita.com/keito-dama/items/4e39e3b0c23cd0ee9056)** のコードまとめです。
 
 # インストール方法
+git cloneでインストール後、vscodeで開いて実行してみてください。
+
 ```
 git clone https://github.com/keit0728/study-properties-reader.git
 ```
